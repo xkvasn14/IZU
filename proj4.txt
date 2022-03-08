@@ -1,0 +1,331 @@
+Jaroslav Kvasnicka xkvasn14 zadani 227
+Body:
+ [0, -1, -2], [-3, -1, -3], [1, -3, 2], [-2, -2, 2], [1, 2, -4], [0, -4, 3], [1, 0, -3], [-3, 0, 0], [-2, 2, -4], [-2, 4, 3], [3, -2, 4], [2, -5, -4]
+
+Stredove body:
+ [3, -2, 4], [0, -3, 1], [1, 2, -4]
+
+Iterace 1
+Bod 1:
+  Vzdalenost od bodu 1: 6.782330
+  Vzdalenost od bodu 2: 3.605551
+  Vzdalenost od bodu 3: 3.741657
+Bod 2:
+  Vzdalenost od bodu 1: 9.273618
+  Vzdalenost od bodu 2: 5.385165
+  Vzdalenost od bodu 3: 5.099020
+Bod 3:
+  Vzdalenost od bodu 1: 3.000000
+  Vzdalenost od bodu 2: 1.414214
+  Vzdalenost od bodu 3: 7.810250
+Bod 4:
+  Vzdalenost od bodu 1: 5.385165
+  Vzdalenost od bodu 2: 2.449490
+  Vzdalenost od bodu 3: 7.810250
+Bod 5:
+  Vzdalenost od bodu 1: 9.165151
+  Vzdalenost od bodu 2: 7.141428
+  Vzdalenost od bodu 3: 0.000000
+Bod 6:
+  Vzdalenost od bodu 1: 3.741657
+  Vzdalenost od bodu 2: 2.236068
+  Vzdalenost od bodu 3: 9.273618
+Bod 7:
+  Vzdalenost od bodu 1: 7.549834
+  Vzdalenost od bodu 2: 5.099020
+  Vzdalenost od bodu 3: 2.236068
+Bod 8:
+  Vzdalenost od bodu 1: 7.483315
+  Vzdalenost od bodu 2: 4.358899
+  Vzdalenost od bodu 3: 6.000000
+Bod 9:
+  Vzdalenost od bodu 1: 10.246951
+  Vzdalenost od bodu 2: 7.348469
+  Vzdalenost od bodu 3: 3.000000
+Bod 10:
+  Vzdalenost od bodu 1: 7.874008
+  Vzdalenost od bodu 2: 7.549834
+  Vzdalenost od bodu 3: 7.874008
+Bod 11:
+  Vzdalenost od bodu 1: 0.000000
+  Vzdalenost od bodu 2: 4.358899
+  Vzdalenost od bodu 3: 9.165151
+Bod 12:
+  Vzdalenost od bodu 1: 8.602325
+  Vzdalenost od bodu 2: 5.744563
+  Vzdalenost od bodu 3: 7.071068
+Skupina 1:
+  Bod 11:
+  [3, -2, 4]
+Skupina 2:
+  Bod 1:
+  [0, -1, -2]
+  Bod 3:
+  [1, -3, 2]
+  Bod 4:
+  [-2, -2, 2]
+  Bod 6:
+  [0, -4, 3]
+  Bod 8:
+  [-3, 0, 0]
+  Bod 10:
+  [-2, 4, 3]
+  Bod 12:
+  [2, -5, -4]
+Skupina 3:
+  Bod 2:
+  [-3, -1, -3]
+  Bod 5:
+  [1, 2, -4]
+  Bod 7:
+  [1, 0, -3]
+  Bod 9:
+  [-2, 2, -4]
+Stredove body:
+1: [3.0, -2.0, 4.0]
+2: [-0.5714285, -1.5714285, 0.5714285]
+3: [-0.75, 0.75, -3.5]
+
+Iterace 2
+Bod 1:
+  Vzdalenost od bodu 1: 6.782330
+  Vzdalenost od bodu 2: 2.695423
+  Vzdalenost od bodu 3: 2.423840
+Bod 2:
+  Vzdalenost od bodu 1: 9.273618
+  Vzdalenost od bodu 2: 4.356557
+  Vzdalenost od bodu 3: 2.893959
+Bod 3:
+  Vzdalenost od bodu 1: 3.000000
+  Vzdalenost od bodu 2: 2.559496
+  Vzdalenost od bodu 3: 6.882950
+Bod 4:
+  Vzdalenost od bodu 1: 5.385165
+  Vzdalenost od bodu 2: 2.065262
+  Vzdalenost od bodu 3: 6.274950
+Bod 5:
+  Vzdalenost od bodu 1: 9.165151
+  Vzdalenost od bodu 2: 6.010195
+  Vzdalenost od bodu 3: 2.207940
+Bod 6:
+  Vzdalenost od bodu 1: 3.741657
+  Vzdalenost od bodu 2: 3.481731
+  Vzdalenost od bodu 3: 8.085481
+Bod 7:
+  Vzdalenost od bodu 1: 7.549834
+  Vzdalenost od bodu 2: 4.206409
+  Vzdalenost od bodu 3: 1.968502
+Bod 8:
+  Vzdalenost od bodu 1: 7.483315
+  Vzdalenost od bodu 2: 2.948538
+  Vzdalenost od bodu 3: 4.227884
+Bod 9:
+  Vzdalenost od bodu 1: 10.246951
+  Vzdalenost od bodu 2: 5.974435
+  Vzdalenost od bodu 3: 1.837117
+Bod 10:
+  Vzdalenost od bodu 1: 7.874008
+  Vzdalenost od bodu 2: 6.243364
+  Vzdalenost od bodu 3: 7.373941
+Bod 11:
+  Vzdalenost od bodu 1: 0.000000
+  Vzdalenost od bodu 2: 4.969293
+  Vzdalenost od bodu 3: 8.824681
+Bod 12:
+  Vzdalenost od bodu 1: 8.602325
+  Vzdalenost od bodu 2: 6.266203
+  Vzdalenost od bodu 3: 6.393356
+Skupina 1:
+  Bod 11:
+  [3, -2, 4]
+Skupina 2:
+  Bod 3:
+  [1, -3, 2]
+  Bod 4:
+  [-2, -2, 2]
+  Bod 6:
+  [0, -4, 3]
+  Bod 8:
+  [-3, 0, 0]
+  Bod 10:
+  [-2, 4, 3]
+  Bod 12:
+  [2, -5, -4]
+Skupina 3:
+  Bod 1:
+  [0, -1, -2]
+  Bod 2:
+  [-3, -1, -3]
+  Bod 5:
+  [1, 2, -4]
+  Bod 7:
+  [1, 0, -3]
+  Bod 9:
+  [-2, 2, -4]
+Stredove body:
+1: [3.0, -2.0, 4.0]
+2: [-0.6666666, -1.6666666, 1.0]
+3: [-0.6, 0.4, -3.2]
+
+Iterace 3
+Bod 1:
+  Vzdalenost od bodu 1: 6.782330
+  Vzdalenost od bodu 2: 3.144660
+  Vzdalenost od bodu 3: 1.939072
+Bod 2:
+  Vzdalenost od bodu 1: 9.273618
+  Vzdalenost od bodu 2: 4.678556
+  Vzdalenost od bodu 3: 2.785678
+Bod 3:
+  Vzdalenost od bodu 1: 3.000000
+  Vzdalenost od bodu 2: 2.357023
+  Vzdalenost od bodu 3: 6.415606
+Bod 4:
+  Vzdalenost od bodu 1: 5.385165
+  Vzdalenost od bodu 2: 1.699673
+  Vzdalenost od bodu 3: 5.895761
+Bod 5:
+  Vzdalenost od bodu 1: 9.165151
+  Vzdalenost od bodu 2: 6.420453
+  Vzdalenost od bodu 3: 2.400000
+Bod 6:
+  Vzdalenost od bodu 1: 3.741657
+  Vzdalenost od bodu 2: 3.144660
+  Vzdalenost od bodu 3: 7.626270
+Bod 7:
+  Vzdalenost od bodu 1: 7.549834
+  Vzdalenost od bodu 2: 4.642796
+  Vzdalenost od bodu 3: 1.661325
+Bod 8:
+  Vzdalenost od bodu 1: 7.483315
+  Vzdalenost od bodu 2: 3.036811
+  Vzdalenost od bodu 3: 4.019950
+Bod 9:
+  Vzdalenost od bodu 1: 10.246951
+  Vzdalenost od bodu 2: 6.342099
+  Vzdalenost od bodu 3: 2.271563
+Bod 10:
+  Vzdalenost od bodu 1: 7.874008
+  Vzdalenost od bodu 2: 6.155395
+  Vzdalenost od bodu 3: 7.304793
+Bod 11:
+  Vzdalenost od bodu 1: 0.000000
+  Vzdalenost od bodu 2: 4.749269
+  Vzdalenost od bodu 3: 8.400000
+Bod 12:
+  Vzdalenost od bodu 1: 8.602325
+  Vzdalenost od bodu 2: 6.574361
+  Vzdalenost od bodu 3: 6.046487
+Skupina 1:
+  Bod 11:
+  [3, -2, 4]
+Skupina 2:
+  Bod 3:
+  [1, -3, 2]
+  Bod 4:
+  [-2, -2, 2]
+  Bod 6:
+  [0, -4, 3]
+  Bod 8:
+  [-3, 0, 0]
+  Bod 10:
+  [-2, 4, 3]
+Skupina 3:
+  Bod 1:
+  [0, -1, -2]
+  Bod 2:
+  [-3, -1, -3]
+  Bod 5:
+  [1, 2, -4]
+  Bod 7:
+  [1, 0, -3]
+  Bod 9:
+  [-2, 2, -4]
+  Bod 12:
+  [2, -5, -4]
+Stredove body:
+1: [3.0, -2.0, 4.0]
+2: [-1.2, -1.0, 2.0]
+3: [-0.1666666, -0.5, -3.3333333]
+
+Iterace 4
+Bod 1:
+  Vzdalenost od bodu 1: 6.782330
+  Vzdalenost od bodu 2: 4.176123
+  Vzdalenost od bodu 3: 1.433721
+Bod 2:
+  Vzdalenost od bodu 1: 9.273618
+  Vzdalenost od bodu 2: 5.314132
+  Vzdalenost od bodu 3: 2.896358
+Bod 3:
+  Vzdalenost od bodu 1: 3.000000
+  Vzdalenost od bodu 2: 2.973214
+  Vzdalenost od bodu 3: 6.004628
+Bod 4:
+  Vzdalenost od bodu 1: 5.385165
+  Vzdalenost od bodu 2: 1.280625
+  Vzdalenost od bodu 3: 5.835714
+Bod 5:
+  Vzdalenost od bodu 1: 9.165151
+  Vzdalenost od bodu 2: 7.059745
+  Vzdalenost od bodu 3: 2.838231
+Bod 6:
+  Vzdalenost od bodu 1: 3.741657
+  Vzdalenost od bodu 2: 3.382307
+  Vzdalenost od bodu 3: 7.238017
+Bod 7:
+  Vzdalenost od bodu 1: 7.549834
+  Vzdalenost od bodu 2: 5.553377
+  Vzdalenost od bodu 3: 1.312335
+Bod 8:
+  Vzdalenost od bodu 1: 7.483315
+  Vzdalenost od bodu 2: 2.870540
+  Vzdalenost od bodu 3: 4.403282
+Bod 9:
+  Vzdalenost od bodu 1: 10.246951
+  Vzdalenost od bodu 2: 6.755738
+  Vzdalenost od bodu 3: 3.171050
+Bod 10:
+  Vzdalenost od bodu 1: 7.874008
+  Vzdalenost od bodu 2: 5.161395
+  Vzdalenost od bodu 3: 7.982620
+Bod 11:
+  Vzdalenost od bodu 1: 0.000000
+  Vzdalenost od bodu 2: 4.758151
+  Vzdalenost od bodu 3: 8.127457
+Bod 12:
+  Vzdalenost od bodu 1: 8.602325
+  Vzdalenost od bodu 2: 7.889233
+  Vzdalenost od bodu 3: 5.038739
+Skupina 1:
+  Bod 11:
+  [3, -2, 4]
+Skupina 2:
+  Bod 3:
+  [1, -3, 2]
+  Bod 4:
+  [-2, -2, 2]
+  Bod 6:
+  [0, -4, 3]
+  Bod 8:
+  [-3, 0, 0]
+  Bod 10:
+  [-2, 4, 3]
+Skupina 3:
+  Bod 1:
+  [0, -1, -2]
+  Bod 2:
+  [-3, -1, -3]
+  Bod 5:
+  [1, 2, -4]
+  Bod 7:
+  [1, 0, -3]
+  Bod 9:
+  [-2, 2, -4]
+  Bod 12:
+  [2, -5, -4]
+
+Vysledne stredy:
+[3.0, -2.0, 4.0]
+[-1.2, -1.0, 2.0]
+[-0.1666666, -0.5, -3.3333333]
